@@ -1,0 +1,4 @@
+sat 1 beam 1 user 2 color B
+sat 1 beam 2 user 4 color C
+sat 1 beam 3 user 3 color D
+sat 1 beam 4 user 1 color A
